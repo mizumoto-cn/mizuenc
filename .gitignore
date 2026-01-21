@@ -26,3 +26,6 @@ go.work.sum
 
 # vscode settings
 .vscode/
+
+# local Go build cache (when overriding GOCACHE)
+.gocache/

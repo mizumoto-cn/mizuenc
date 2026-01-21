@@ -1,6 +1,6 @@
-# go-template
+# Mizu-encrypt
 
-![Go Version](https://img.shields.io/badge/Go-1.22.4-yellow.svg)
+![Go Version](https://img.shields.io/badge/Go-1.24.4-yellow.svg)
 [![License](https://img.shields.io/badge/License-MGPL%20v1.5-green.svg)](/Licensing/Mizumoto.General.Public.License.v1.5.md)
 
 A Go template repository with MGPL License and workflow.
@@ -16,7 +16,7 @@ After creating a new repository from this template, you should update the follow
 
 ## Table of Contents
 
-- [go-template](#go-template)
+- [Mizu-encrypt](#mizu-encrypt)
   - [Table of Contents](#table-of-contents)
   - [Documentation](#documentation)
   - [Milestones](#milestones)
@@ -43,4 +43,4 @@ As for the full context of this license, please refer to the markdown version: [
 
 ---
 
-copyRight @ 2024 Ruiyuan "mizumoto-cn" Xu <mizumoto@mizumoto.tech>
+copyRight @ 2026 Ruiyuan "mizumoto-cn" Xu <mizumoto@mizumoto.tech>

@@ -29,3 +29,6 @@ go.work.sum
 
 # local Go build cache (when overriding GOCACHE)
 .gocache/
+
+# local Go module cache (when overriding GOMODCACHE)
+.gomodcache/

@@ -1,3 +1,10 @@
+/*
+ * Copyright (c) 2026 Ruiyuan "mizumoto-cn" Xu
+ *
+ * Licensed under the Mizumoto General Public License v1.5.
+ * See the LICENSE file in the project root for full license information.
+ */
+
 package main
 
 import (

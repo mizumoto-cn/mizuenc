@@ -19,6 +19,10 @@ After creating a new repository from this template, you should update the follow
 - [Mizu-encrypt](#mizu-encrypt)
   - [Table of Contents](#table-of-contents)
   - [Documentation](#documentation)
+  - [Usage](#usage)
+    - [Install](#install)
+    - [Encrypt](#encrypt)
+    - [Decrypt](#decrypt)
   - [Milestones](#milestones)
   - [Roadmap](#roadmap)
   - [Contributing](#contributing)
@@ -27,6 +31,36 @@ After creating a new repository from this template, you should update the follow
 ## Documentation
 
 All documentation is available in the [Wiki](./Wiki/) folder.
+
+## Usage
+
+### Install
+
+Requires Go 1.24+.
+
+Install the CLI to your machine:
+
+```bash
+go install github.com/mizumoto-cn/mizuenc@latest
+```
+
+Make sure `$(go env GOPATH)/bin` is in your `PATH`, then run:
+
+```bash
+mizuenc --help
+```
+
+### Encrypt
+
+```bash
+mizuenc encrypt "hello world"
+```
+
+### Decrypt
+
+```bash
+mizuenc decrypt "<token>"
+```
 
 ## Milestones
 

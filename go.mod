@@ -1,4 +1,4 @@
-module mizuenc
+module github.com/mizumoto-cn/mizuenc
 
 go 1.24.4
 

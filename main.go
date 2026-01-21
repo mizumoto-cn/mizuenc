@@ -7,7 +7,7 @@ import (
 
 	"github.com/urfave/cli/v3"
 
-	"mizuenc/pkg"
+	"github.com/mizumoto-cn/mizuenc/pkg"
 )
 
 func main() {
